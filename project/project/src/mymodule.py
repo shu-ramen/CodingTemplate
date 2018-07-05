@@ -13,7 +13,7 @@ Description:
 
 import math
 
-def calc_sum(x: int, y: str) -> int:
+def calc_sum(x: int, y: int) -> int:
     """足し算 / Summamtion.
 
     xとyを足して返す.
