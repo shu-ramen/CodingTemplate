@@ -87,7 +87,7 @@ class QudraticEquations(object):
         """f(x)の値を計算する / Calculate f(x).
         
         Args:
-            x (float): 二次方程式にダウンロード / value for quadratic function
+            x (float): 二次方程式に代入するx / value for quadratic function
         
         Returns:
             float: 計算したf(x) / calculated value f(x)
